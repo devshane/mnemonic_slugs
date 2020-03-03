@@ -10,7 +10,7 @@ A fork of the original project can be found [here](https://github.com/devshane/m
 
 Add mnemonic_slugs to your list of dependencies in `mix.exs`:
 
-```
+```elixir
 def deps do
   [{:mnemonic_slugs, "~> 0.0.3"}]
 end
